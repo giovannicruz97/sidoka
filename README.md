@@ -17,4 +17,4 @@ Adminer based GUI tool for relational databases (MySQL, PostGRESQL etc)
 
 ## How to access?
 
-[sidoka.db](http://sidoka.db)
+[sidoka](http://sidoka:7777)
