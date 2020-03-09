@@ -12,7 +12,6 @@ function adminer_object() {
         // specify enabled plugins here
         new AdminerDumpJson,
         new AdminerDumpZip,
-        new AdminerPrettyJsonColumn($adminer),
         new AdminerSqlLog(),
     );
     
