@@ -14,3 +14,7 @@ Adminer based GUI tool for relational databases (MySQL, PostGRESQL etc)
 ## How to run?
 
 `docker-compose up`
+
+## How to access?
+
+[sidoka.db](http://sidoka.db)
